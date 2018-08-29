@@ -37,9 +37,6 @@ table 50100 "Reward"
         }
     }
     
-    var
-        myInt: Integer;
-    
     trigger OnInsert()
     begin
         SetLastModifiedDate();
