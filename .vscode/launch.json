@@ -4,10 +4,11 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Your own server",
+            "name": "Sample Extension NAV",
             "server": "http://localhost",
-            "serverInstance": "nav",
-            "authentication": "UserPassword",
+            "serverInstance": "DynamicsNAV110",
+            "authentication": "Windows",
+            "port": 7949,
             "startupObjectId": 22,
             "startupObjectType": "Page"
         }
