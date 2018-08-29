@@ -2,7 +2,7 @@ page 50102 "Reward List"
 {
     PageType = List;
     SourceTable = Reward;
-    CardPageId = "Reward Card"; //Difinit la page de 
+    CardPageId = "Reward Card"; //Difinit la Page Card Associée à la table "Reward"
     
     layout
     {
