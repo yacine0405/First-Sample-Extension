@@ -1,6 +1,7 @@
 table 50100 "Reward"
 {
-    
+    LookupPageId = "Reward List";
+    DrillDownPageId = "Reward List";
     fields
     {
         field(1;"Reward ID"; Code[30])
