@@ -12,6 +12,7 @@
   "logo": "",
   "capabilities": [],
   "dependencies": [],
+  "showMyCode": true,
   "screenshots": [],
   "platform": "11.0.12925.0",
   "application": "11.0.22292.0",

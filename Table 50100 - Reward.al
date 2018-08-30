@@ -1,12 +1,10 @@
 table 50100 "Reward"
 {
-    // DataClassification = ToBeClassified;
-
+    
     fields
     {
         field(1;"Reward ID"; Code[30])
         {
-            // DataClassification = ToBeClassified;
         }
         field(2; Description; Text[250])
         {
