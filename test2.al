@@ -7,7 +7,6 @@ tableextension 50104 "Yes al" extends Currency
     
     var
         myInt : Integer;
-<<<<<<< Updated upstream
         ytest : text[200];
         sTest : Record Customer;
 =======
