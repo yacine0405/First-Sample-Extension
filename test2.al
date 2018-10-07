@@ -1,4 +1,4 @@
-tableextension id MyExtension extends MyTargetTable
+tableextension 50104 "Yes al" extends Currency
 {
     fields
     {
@@ -7,4 +7,6 @@ tableextension id MyExtension extends MyTargetTable
     
     var
         myInt : Integer;
+        ytest : text[200];
+        sTest : Record Customer;
 }
