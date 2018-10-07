@@ -4,6 +4,7 @@ tableextension 50103 "Customer Ext" extends Customer
     {
         field(50100; "Reward ID"; Code[30])
         {
+            DataClassification = CustomerContent;
             TableRelation = Reward."Reward ID";
             ValidateTableRelation = true;
 

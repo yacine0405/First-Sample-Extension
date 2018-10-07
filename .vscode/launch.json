@@ -9,8 +9,9 @@
             "serverInstance": "DynamicsNAV110",
             "authentication": "Windows",
             "port": 7949,
-            "startupObjectId": 21,
-            "startupObjectType": "Page"
+            "startupObjectId": 50102,
+            "startupObjectType": "Page",
+            "schemaUpdateMode": "Recreate"
         }
     ]
 }
