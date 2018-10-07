@@ -8,11 +8,8 @@ tableextension 50104 "Yes al" extends Currency
     var
         myInt : Integer;
         ytest : text[200];
-        sTest : Record Customer;
-        Test3: Integer;
-<<<<<<< HEAD
+        sTest : Record Customer;     Test3: Integer;
         test5: boolean; 
-=======
         Test4: decimal;
->>>>>>> YSai
+        
 }
