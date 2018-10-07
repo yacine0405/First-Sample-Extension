@@ -9,7 +9,5 @@ tableextension 50104 "Yes al" extends Currency
         myInt : Integer;
         ytest : text[200];
         sTest : Record Customer;
-=======
         Test3: Integer;
->>>>>>> Stashed changes
 }
