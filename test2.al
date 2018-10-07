@@ -10,5 +10,9 @@ tableextension 50104 "Yes al" extends Currency
         ytest : text[200];
         sTest : Record Customer;
         Test3: Integer;
+<<<<<<< HEAD
         test5: boolean; 
+=======
+        Test4: decimal;
+>>>>>>> YSai
 }
