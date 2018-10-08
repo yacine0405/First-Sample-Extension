@@ -9,7 +9,7 @@ tableextension 50104 "Yes al" extends Currency
         myInt : Integer;
         ytest : text[200];
         sTest : Record Customer;     Test3: Integer;
-        test5: boolean; 
+        test5: Decimal; 
         Test4: decimal;
         
 }
